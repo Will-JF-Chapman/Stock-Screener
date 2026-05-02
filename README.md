@@ -1,6 +1,6 @@
 # Stock Screener & Portfolio Analyzer
 
-A stock analysis web app built with Python and Streamlit. Pulls real market data from Yahoo Finance and gives you metrics, charts, screening tools, and a formatted Excel report — all in one place.
+A stock analysis web app built with Python and Streamlit. Pulls real market data from Yahoo Finance and gives you metrics, charts, screening tools, and a formatted Excel report all in one place.
 
 ---
 
